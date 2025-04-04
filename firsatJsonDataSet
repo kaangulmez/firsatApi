@@ -1,0 +1,51 @@
+[
+  {
+    "market": "A101",
+    "categories": [
+      {
+        "title": "Bu Hafta",
+        "items": [
+          "https://a101.com/bu-hafta-1.jpg",
+          "https://a101.com/bu-hafta-2.jpg"
+        ]
+      },
+      {
+        "title": "Aldın Aldın",
+        "items": [
+          "https://a101.com/aldin-aldin-1.jpg",
+          "https://a101.com/aldin-aldin-2.jpg"
+        ]
+      },
+      {
+        "title": "Gelecek Hafta",
+        "items": [
+          "https://a101.com/gelecek-hafta-1.jpg",
+          "https://a101.com/gelecek-hafta-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "market": "BİM",
+    "categories": [
+      {
+        "title": "Haftalık Ürünler",
+        "items": [
+          "https://bim.com/haftalik-1.jpg",
+          "https://bim.com/haftalik-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "market": "Şok",
+    "categories": [
+      {
+        "title": "Şok Aktüel",
+        "items": [
+          "https://sok.com/sok-aktuel-1.jpg"
+        ]
+      }
+    ]
+  }
+]
