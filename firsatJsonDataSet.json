@@ -1,0 +1,61 @@
+[
+  {
+    "brand": "A101",
+    "categories": [
+      {
+        "title": "Gelecek Hafta",
+        "url": "https://www.a101.com.tr/aldin-aldin-gelecek-hafta-brosuru",
+        "doc": "div.swiper-slide img",
+        "imgSource": "src"
+      },
+      {
+        "title": "Bu Hafta",
+        "url": "https://www.a101.com.tr/aldin-aldin-bu-hafta-brosuru",
+        "doc": "div.swiper-slide img",
+        "imgSource": "src",
+        "items": [
+          "https://a101.com/gelecek-hafta-1.jpg",
+          "https://a101.com/gelecek-hafta-2.jpg"
+        ]
+      },
+      {
+        "title": "Haftanın Yıldızları",
+        "url": "https://www.a101.com.tr/afisler-haftanin-yildizlari",
+        "doc": "div.swiper-slide img",
+        "imgSource": "src"
+      },
+      {
+        "title": "Büyük Olduğu İçin Ucuz",
+        "url": "https://www.a101.com.tr/buyuk-oldugu-icin-ucuz-afisler",
+        "doc": "div.swiper-slide img",
+        "imgSource": "src"
+      }
+    ]
+  },
+  {
+    "brand": "BİM",
+    "categories": [
+      {
+        "title": "Haftalık Ürünler",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "a[data-img]",
+        "imgSource": "data-img",
+        "items": [
+          "https://bim.com/haftalik-1.jpg",
+          "https://bim.com/haftalik-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Şok",
+    "categories": [
+      {
+        "title": "Şok Aktüel",
+        "items": [
+          "https://sok.com/sok-aktuel-1.jpg"
+        ]
+      }
+    ]
+  }
+]
