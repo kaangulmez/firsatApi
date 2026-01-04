@@ -34,23 +34,71 @@
   },
   {
     "brand": "BİM",
-    "categories": [
+"categories": [
       {
-        "title": "Aktüel",
+        "title": "Aktüel - 23 Aralık Salı",
         "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
-        "doc": "div.grup1 a.small",
+        "doc": "div.grup1.genelgrup:nth-of-type(1) div.smallArea a",
         "imgSource": "data-bigimg"
       },
       {
-        "title": "İndirim",
+        "title": "Aktüel - 26 Aralık Cuma",
         "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
-        "doc": "div.grup2 a.small",
+        "doc": "div.grup1.genelgrup:nth-of-type(2) div.smallArea a",
         "imgSource": "data-bigimg"
       },
       {
-        "title": "Eve Teslim",
+        "title": "Aktüel - 30 Aralık Salı",
         "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
-        "doc": "div.grup3 a.small",
+        "doc": "div.grup1.genelgrup:nth-of-type(3) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "Aktüel - 02 Ocak Cuma",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup1.genelgrup:nth-of-type(4) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "Aktüel - 06 Ocak Salı",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup1.genelgrup:nth-of-type(5) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "Aktüel - 09 Ocak Cuma",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup1.genelgrup:nth-of-type(6) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "İndirim - 02-06 Ocak",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup2.genelgrup:nth-of-type(1) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "İndirim - 03-09 Ocak",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup2.genelgrup:nth-of-type(2) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "Eve Teslim - 24 Aralık Çarşamba",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup3.genelgrup:nth-of-type(1) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "Eve Teslim - 31 Aralık Çarşamba",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup3.genelgrup:nth-of-type(2) div.smallArea a",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "Eve Teslim - 07 Ocak Çarşamba",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup3.genelgrup:nth-of-type(3) div.smallArea a",
         "imgSource": "data-bigimg"
       }
     ]
