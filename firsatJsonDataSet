@@ -36,14 +36,10 @@
     "brand": "BİM",
     "categories": [
       {
-        "title": "Haftalık Ürünler",
+        "title": "Haftalık Afişler",
         "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
-        "doc": "a[data-img]",
-        "imgSource": "data-img",
-        "items": [
-          "https://bim.com/haftalik-1.jpg",
-          "https://bim.com/haftalik-2.jpg"
-        ]
+        "doc": "a.fancyboxImage",
+        "imgSource": "href"
       }
     ]
   },
