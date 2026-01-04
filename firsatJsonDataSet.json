@@ -34,7 +34,7 @@
   },
   {
     "brand": "BİM",
-"categories": [
+    "categories": [
       {
         "title": "Aktüel - 23 Aralık Salı",
         "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
@@ -82,7 +82,7 @@
         "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
         "doc": "div.grup2.genelgrup:nth-of-type(2) div.smallArea a",
         "imgSource": "data-bigimg"
-      },
+      }
     ]
   },
   {
