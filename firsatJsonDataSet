@@ -35,9 +35,23 @@
   {
     "brand": "BİM",
     "categories": [
-       {
-        "title": "Haftalık Afişler",
-        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx"
+      {
+        "title": "Aktüel",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup1 a.small",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "İndirim",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup2 a.small",
+        "imgSource": "data-bigimg"
+      },
+      {
+        "title": "Eve Teslim",
+        "url": "https://www.bim.com.tr/Categories/680/afisler.aspx",
+        "doc": "div.grup3 a.small",
+        "imgSource": "data-bigimg"
       }
     ]
   },
